@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">P0691_Parcelable</string>
+    <string name="main_activity">MainActivity</string>
+    <string name="second_activity">SecondActivity</string>
+    <string name="send">Send</string>
+    <string name="my_object">MyObject(String s, int i)</string>
+    <string name="writetoparcel">writeToParcel</string>
+    <string name="myobject_from_parcel">MyObject(Parcel source)</string>
+    <string name="get_parcelable_extra">getParcelableExtra</string>
+    <string name="my_obj">myObj:</string>
+    <string name="comma">,</string>
+    <string name="text">text</string>
+    <string name="my_logs">myLogs</string>
+    <string name="start_activity">startActivity</string>
+    <string name="create_from_parcel">createFromParcel</string>
+</resources>
